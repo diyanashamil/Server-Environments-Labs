@@ -1,4 +1,4 @@
-# Introduction to Server Environments and Architectures
+# Introduction to Server Environments and Architectures..
 Lab documentation – Murdoch University
 
 **Environment:** Ubuntu 24.04 LTS on VMware Fusion (macOS host)
